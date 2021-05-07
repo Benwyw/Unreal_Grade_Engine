@@ -16,5 +16,7 @@
     <a href="https://drive.google.com/file/d/1gIUbvJQzhL9NKuuxNVTD4sLhlKVYmeOQ/view?usp=sharing">Final Report</a>
     ·
     <a href="https://drive.google.com/file/d/1UCeKtfK1CRBiEV-sXalkZ6KpQnrWnxj-/view?usp=sharing">Demo Video</a>
+    .
+    <a href="https://drive.google.com/drive/folders/11H0wjQYojAZK64u7C859ESLdyNXmSQ2U?usp=sharing">Submission Records</a>
   </p>
 </p>
