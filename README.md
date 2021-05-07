@@ -19,4 +19,7 @@
     .
     <a href="https://drive.google.com/drive/folders/11H0wjQYojAZK64u7C859ESLdyNXmSQ2U?usp=sharing">Submission Records</a>
   </p>
+  <p align="center">
+    Proposal: 4.5/5 | Interim Report: 8.5/10 | Final Report: 7.8/10 | Presentation: 3.9/5 | Project Overall: 24.7/30
+  </p>
 </p>
