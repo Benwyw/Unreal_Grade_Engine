@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/OP-Banana/Class-scheduling-using-improved-Genetic-Algorithms-in-OUHK">
+  <a href="https://github.com/OP-Banana/Unreal_Grade_Engine/">
     <img src="http://www.ouhk.edu.hk/PAU/AboutOUHK/University_identity/OUHK-logo.png" alt="Logo" height="80">
   </a>
 
